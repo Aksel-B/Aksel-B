@@ -31,7 +31,7 @@ Mon objectif ? Faire des applis utiles et bien conçues !
 
 ## 👀 Stats GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aksel&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Aksel-B&show_icons=true&theme=radical)
 
 ## 📢 Let's Connect
 
